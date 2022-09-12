@@ -3,11 +3,11 @@ package mock
 import (
 	"encoding/json"
 
+	"github.com/blueshift-fi/ibc-mock-client/modules/light-clients/xx-mock/types"
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/codec"
 	codectypes "github.com/cosmos/cosmos-sdk/codec/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/datachainlab/ibc-mock-client/modules/light-clients/xx-mock/types"
 	"github.com/gorilla/mux"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
 	"github.com/spf13/cobra"

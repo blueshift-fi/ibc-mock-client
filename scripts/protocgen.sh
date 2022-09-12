@@ -31,5 +31,5 @@ Mgoogle/protobuf/any.proto=github.com/cosmos/cosmos-sdk/codec/types:. \
 
 done
 
-cp -r github.com/datachainlab/ibc-mock-client/* ./
+cp -r github.com/blueshift-fi/ibc-mock-client/* ./
 rm -rf github.com

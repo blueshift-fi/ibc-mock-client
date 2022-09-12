@@ -1,4 +1,4 @@
-module github.com/datachainlab/ibc-mock-client
+module github.com/blueshift-fi/ibc-mock-client
 
 go 1.18
 
